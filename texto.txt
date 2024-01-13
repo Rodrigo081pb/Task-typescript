@@ -1,0 +1,13 @@
+// type hero={
+//     name: string,
+//     vulgo: string,
+// }
+
+// function objetos(pessoa:hero){
+//     console.log(pessoa);
+// }
+
+// objetos({
+//     name:'Bruce Wayne',
+//     vulgo:'Batman'
+// });
